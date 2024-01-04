@@ -4,8 +4,7 @@
  * binary_tree_is_leaf - When a node is a leaf, it indicates that
  * it has neither left nor right children.
  * @node: pointer to the node to be checked
- * Return: 1 if node is a leaf, otherwise 0 if node is NULL
- * return 0
+ * Return: 1 if node is a leaf, otherwise 0
  */
 
 int binary_tree_is_leaf(const binary_tree_t *node)
